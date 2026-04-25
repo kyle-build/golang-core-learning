@@ -1,1 +1,0 @@
-docker stop hedx-frame-archetype-lite

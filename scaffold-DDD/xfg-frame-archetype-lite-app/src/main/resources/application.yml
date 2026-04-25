@@ -1,5 +1,0 @@
-spring:
-  config:
-    name: hedx-frame-archetype-lite-app
-  profiles:
-    active: dev
